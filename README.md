@@ -1,4 +1,11 @@
 # YAZLAB--1-P-1
+
+Amaç:
+1. Farklı kısıtlara sahip arama algoritmalarının birbirlerine karşı etkinliklerini gözlemlemek,
+2. Arama algoritmalarını bir uygulama içerisinde kullanma ve kodlama becerisini geliştirmek,
+3. Dinamik özelliklere sahip bir program geliştirmek.
+
+
 Altın Toplama Oyunu 
 
 	Bu readme.txt dosyası, Altın Toplama Oyunu dosyaları projesi koduna aittir. 
